@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhpan
 - 👀 I’m interested in computer science, coding, artificial intelligence, machine learning, neural networks, etc.
-- 🌱 I’m currently coding and learning on Python, and a little bit of Java
+- 🌱 I’m currently coding and learning in Python, and a little bit of Java
 - 💞️ I’m looking to collaborate on nothing, for the moment
 - 📫 How to reach me: adhritpantam@gmail.com
 - 😄 Pronouns: he/him
